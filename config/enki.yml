@@ -1,7 +1,7 @@
 # Configuration options for your blog - customise to taste
 # This file contains no secret information, so can be stored in source control (unlike database.yml)
-title: My Enki Blog
-url:   http://enkiblog.com
+title: 3rd Floor Labs
+url:   http://3rdfloorlabsnola.com
 author:
   name:    3rd Floor Labs        # For copyright notice and ATOM feeds
   email:   3rdfloorlabs@gmail.com # Exception emails will go here, and it is used in ATOM feeds
