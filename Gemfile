@@ -21,7 +21,7 @@ platforms :jruby do
   gem 'jruby-openssl'
 end
 
-gem 'jquery-rails'
+gem 'jquery-rails', '~> 2.0.2'
 
 # Use unicorn as the web server
 # gem 'unicorn'
