@@ -16,6 +16,7 @@ Enki::Application.routes.draw do
   end
 
   match "/about_us" => 'navigation#about_us'
+  match "/portfolio" => 'navigation#portfolio'
 
   resources :archives, :only => [:index]
   resources :pages, :only => [:show]
