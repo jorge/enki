@@ -44,7 +44,7 @@ body {
 #logo {
   width: 300px;
   position: relative;
-  left: 35%;
+  left: 37%;
   margin-top: 2%;
 }
 
@@ -60,9 +60,7 @@ body {
   font-family: verdana, arial, helvetica, sans-serif;
   font-size: 16px;
   background-color: transparent;
-  p {
-    color: $light;
-  }
+
 }
 
 #page_heading {
@@ -80,7 +78,6 @@ body {
 
 #contentLeft {
   background-color: $dark;  
-/*  width:500px;*/
   min-height: 100px;
   float: left;
   box-shadow:
@@ -105,7 +102,7 @@ body {
 }
 
 #contentLeft, #contentRight {
-  width: 48%;
+  width: 49.5%;
 }
 
 #content, #header {
